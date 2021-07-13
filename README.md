@@ -1,2 +1,2 @@
-# rick
+# algorithms.
 website
